@@ -5,7 +5,6 @@
   "version": "1.0",
 
   // Recommended
-  "default_locale": "en",
   "description": "Quick launch Traversy Media",
   "icons": {"128": "icon128.png"},
 
@@ -14,5 +13,6 @@
     "default_icon": "icon.png",
     "default_popup": "calendar.html"
   },
-  "permissions": ["actvieTap"]
+
+  "permissions": ["tabs"]
 }
